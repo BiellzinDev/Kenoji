@@ -50,17 +50,3 @@ Este projeto tem fins educacionais, mas sugestões de melhorias e novas ideias s
 
 ---
 
-
-
-
-links:
-
-My Components - https://biellzindev.github.io/My-Components/
-
-Ser Digital - https://biellzindev.github.io/SerDigital/
-
-Hotel Angels - https://biellzindev.github.io/Angels-hostels/
-
-Tela de Login - https://biellzindev.github.io/Login/
-
-Formulário de Cadastro - https://biellzindev.github.io/Formulario/
