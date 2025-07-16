@@ -7,6 +7,7 @@ Repositório criado durante o curso de **Desenvolvimento Web**, com o objetivo d
 Este projeto serve como um **portfólio prático** dos conhecimentos adquiridos ao longo dos estudos, além de um laboratório para testar novas ideias e boas práticas de desenvolvimento frontend.
 
 🔗 **Veja o projeto online**  
+OBS:RECOMENDO ABRIR NO DESKTOP!!
 [👉 Acesse a demonstração](https://biellzindev.github.io/Kenoji/)
 
 ---
